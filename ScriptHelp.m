@@ -1,0 +1,15 @@
+fprintf('\nBisectm: Solve for the root of an equation using\n');
+fprintf('the Bisection bracketing method\n\n');
+fprintf('Falseposm: Solve for the root of an equation using\n');
+fprintf('the False Position bracketing method\n\n');
+fprintf('NGauss: Solve a system of equations and determine the\n');
+fprintf('coefficient matrix using partial pivoting Gauss Elimination\n\n');
+fprintf('LagrangeInterp: Interpolate a value using Lagrange Interpolation\n\n');
+fprintf('lu_nopivot(A): Takes the LU reduction of a given matrix A. Give this ');
+fprintf('matrix \nbefore initializing the script.\n\n');
+fprintf('TrapInt: Approximate a bounded integral using the Trapezoid Method\n\n');
+fprintf('TrapErr: Approximate a bounded integral using the Trapezoid Method\n');
+fprintf('and calculate an approximate error using Richardsons Formula\n\n');
+fprintf('SimpsInt: Approximate a bounded integral using Simpsons Method\n\n');
+fprintf('SimpsErr: Approximate a bounded integral using the Simpsons Method\n');
+fprintf('and calculate an approximate error using Richardsons Formula\n\n');
